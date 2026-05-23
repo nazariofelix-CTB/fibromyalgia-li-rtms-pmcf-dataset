@@ -1,2 +1,63 @@
 # fibromyalgia-li-rtms-pmcf-dataset
-An anonymized representative dataset and PMCF questionnaire from a multicenter real-world Li-rTMS program in fibromyalgia. Includes structured treatment-tolerability assessments, questionnaire workflow documentation, and supporting materials for methodological transparency and reproducibility.
+
+An anonymized representative dataset and supporting documentation associated with a multicenter post-market clinical follow-up (PMCF) program evaluating low-intensity repetitive transcranial magnetic stimulation (Li-rTMS) in patients with fibromyalgia.
+
+## Repository Contents
+
+### dataset/
+
+* `Dataset_FM_Anonimizado.csv`
+
+  * Representative anonymized subset of PMCF questionnaire responses.
+* `data_dictionary.csv`
+
+  * Variable definitions and dataset structure.
+
+### questionnaire/
+
+* `PMCF_Fibromyalgia_Questionnaire_V7.pdf`
+
+  * Structured PMCF questionnaire used during routine clinical visits.
+
+### workflow/
+
+* `PMCF_Data_Collection_Workflow.pdf`
+
+  * Description of the PMCF data collection, validation, and storage workflow.
+
+## PMCF Workflow Summary
+
+The PMCF program was implemented across multiple outpatient centers under routine clinical practice conditions. Patients completed structured electronic questionnaires during predefined treatment stages:
+
+* Baseline assessment
+* Intermediate assessment
+* Final treatment assessment
+* Follow-up / recall sessions upon patient request
+
+Questionnaires were reviewed and validated by the responsible treating physician before inclusion in the centralized PMCF database.
+
+## Variables Used in the Associated Manuscript
+
+The analyses reported in the associated manuscript were based specifically on the predefined Treatment Assessment items corresponding to:
+
+* Headache perception
+* Generalized pain perception
+* Sleep-related symptom perception
+
+These items were collected only during intermediate, final-treatment, and follow-up/recall phases.
+
+## Data Privacy
+
+The publicly shared dataset is fully anonymized and does not contain:
+
+* direct patient identifiers,
+* clinical history numbers,
+* exact treatment dates,
+* identifiable center information,
+* or free-text clinical observations.
+
+The repository is intended exclusively for methodological transparency, reproducibility, and exploratory secondary analyses.
+
+## Associated Study
+
+Real-World Safety and Tolerability of Low-Intensity Repetitive Transcranial Magnetic Stimulation in Fibromyalgia: A Multicenter Observational Cohort Study.
