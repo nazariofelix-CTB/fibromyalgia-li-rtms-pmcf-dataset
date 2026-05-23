@@ -1,0 +1,41 @@
+variable_name,description,data_type
+Subject_ID,Anonymized identifier,string
+Center_ID,Anonymized identifier,string
+Número de sesión,Treatment phase during PMCF follow-up,categorical
+Puntos de dolor [Mandíbula],WPI-related pain location assessment item,categorical/text
+Puntos de dolor,WPI-related pain location assessment item,categorical/text
+Usted pudo siempre: [Ir a comprar],FIQ functional capacity assessment item,ordinal categorical
+Puntos de dolor [Cintura Escapular],WPI-related pain location assessment item,categorical/text
+Puntos de dolor [Brazo Superior],WPI-related pain location assessment item,categorical/text
+Puntos de dolor [Brazo Inferior],WPI-related pain location assessment item,categorical/text
+Puntos de dolor [Nalga],WPI-related pain location assessment item,categorical/text
+Puntos de dolor [Pierna Superior],WPI-related pain location assessment item,categorical/text
+Puntos de dolor [Pierna Inferior],WPI-related pain location assessment item,categorical/text
+Usted pudo siempre: [Lavar la ropa usando la lavadora y/o secadora],FIQ functional capacity assessment item,ordinal categorical
+Usted pudo siempre: [Preparar Comida],FIQ functional capacity assessment item,ordinal categorical
+Usted pudo siempre: [Lavar los platos a mano],FIQ functional capacity assessment item,ordinal categorical
+Usted pudo siempre: [Pasar la aspiradora por la alfombra],FIQ functional capacity assessment item,ordinal categorical
+Usted pudo siempre: [Hacer las Camas],FIQ functional capacity assessment item,ordinal categorical
+Usted pudo siempre: [Caminar varios centenares de metros],FIQ functional capacity assessment item,ordinal categorical
+Usted pudo siempre: [Visitar a los amigos o a los parientes],FIQ functional capacity assessment item,ordinal categorical
+Usted pudo siempre: [Cuidar el jardín],FIQ functional capacity assessment item,ordinal categorical
+Usted pudo siempre: [Conducir un coche],FIQ functional capacity assessment item,ordinal categorical
+Usted pudo siempre: [Subir escaleras],FIQ functional capacity assessment item,ordinal categorical
+De los siete días de la semana pasada. ¿Cuántos se sintió bien?,Clinical questionnaire variable,string
+¿Cuántos días de trabajo perdió la semana pasada por su fibromialgia? ,FIQ symptom severity assessment item,numeric/ordinal
+"Cuando trabajó, ¿cuánto afectó el dolor u otros síntomas de la fibromialgia a su capacidad para trabajar?",FIQ symptom severity assessment item,numeric/ordinal
+¿Hasta qué punto ha sentido dolor?,FIQ symptom severity assessment item,numeric/ordinal
+¿Hasta qué punto se ha sentido cansado?,FIQ symptom severity assessment item,numeric/ordinal
+¿Cómo se ha sentido al levantarse por la mañana?,FIQ symptom severity assessment item,numeric/ordinal
+ ¿Hasta qué punto se ha sentido agarrotado?,FIQ symptom severity assessment item,numeric/ordinal
+"¿Hasta qué punto se ha sentido tenso, nervioso o ansioso?",FIQ symptom severity assessment item,numeric/ordinal
+¿Hasta qué punto se ha sentido deprimido o triste,FIQ symptom severity assessment item,numeric/ordinal
+Indique la gravedad de sus síntomas durante la semana pasada. [Fatiga (cansancio)],SS Score symptom severity item,ordinal categorical
+Indique la gravedad de sus síntomas durante la semana pasada. [Sueño no reparador],SS Score symptom severity item,ordinal categorical
+Indique la gravedad de sus síntomas durante la semana pasada. [Trastornos cognitivos],SS Score symptom severity item,ordinal categorical
+Marque cada casilla que corresponda a un síntoma que ha sufrido durante la semana pasada,SS Score somatic symptom checklist,multi-label text
+Cefaleas,Treatment assessment item collected during treatment/review sessions,numeric ordinal (0-10)
+Dolores generalizados,Treatment assessment item collected during treatment/review sessions,numeric ordinal (0-10)
+Trastornos del sueño,Treatment assessment item collected during treatment/review sessions,numeric ordinal (0-10)
+Edad,Patient age in years,integer
+Sexo,Patient sex,categorical
