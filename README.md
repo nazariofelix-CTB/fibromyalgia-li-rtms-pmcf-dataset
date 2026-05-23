@@ -36,16 +36,6 @@ The PMCF program was implemented across multiple outpatient centers under routin
 
 Questionnaires were reviewed and validated by the responsible treating physician before inclusion in the centralized PMCF database.
 
-## Variables Used in the Associated Manuscript
-
-The analyses reported in the associated manuscript were based specifically on the predefined Treatment Assessment items corresponding to:
-
-* Headache perception
-* Generalized pain perception
-* Sleep-related symptom perception
-
-These items were collected only during intermediate, final-treatment, and follow-up/recall phases.
-
 ## Data Privacy
 
 The publicly shared dataset is fully anonymized and does not contain:
@@ -58,6 +48,3 @@ The publicly shared dataset is fully anonymized and does not contain:
 
 The repository is intended exclusively for methodological transparency, reproducibility, and exploratory secondary analyses.
 
-## Associated Study
-
-Real-World Safety and Tolerability of Low-Intensity Repetitive Transcranial Magnetic Stimulation in Fibromyalgia: A Multicenter Observational Cohort Study.
